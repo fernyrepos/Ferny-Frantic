@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ferny Frantic - Progression Storytellers\1.5\Assemblies\FernyFrantic.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ferny Frantic - Progression Storytellers\1.5\Source\obj\Debug\FernyFrantic.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ferny Frantic - Progression Storytellers\1.5\Source\obj\Debug\FernyFrantic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ferny Frantic - Progression Storytellers\1.5\Source\obj\Debug\FernyFrantic.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ferny Frantic - Progression Storytellers\1.5\Source\obj\Debug\FernyFrantic.dll
