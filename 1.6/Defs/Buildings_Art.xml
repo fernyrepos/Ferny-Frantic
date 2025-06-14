@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <ThingDef ParentName="SculptureBase">
+    <defName>FernyMonument</defName>
+    <label>Ferny monument</label>
+    <description>An unsightly sculpture with the potential to influence Ferny's rage. Human-likes near the monument will upset him, potentially shifting the target of his rage.</description>
+    <castEdgeShadows>true</castEdgeShadows>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>FernyFrantic/Ferny_Sculpture</texPath>
+      <drawSize>(4,4)</drawSize>
+      <drawOffset>(0,0,0.8)</drawOffset>
+    </graphicData>
+    <fillPercent>0.5</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <uiIconScale>0.6</uiIconScale>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <Beauty>-400</Beauty>
+      <Mass>28</Mass>
+      <WorkToMake>1000</WorkToMake>
+    </statBases>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>500</costStuffCount>
+    <designationCategory>Misc</designationCategory>
+  </ThingDef>
+  
+</Defs>
